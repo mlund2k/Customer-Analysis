@@ -1,4 +1,7 @@
 # Customer-Analysis
+
+![image](https://github.com/user-attachments/assets/2ed7b020-cd97-4870-875a-c016cd200acd)
+
 This Power BI exploratory data analysis project explored the demographics and statistics of various Customer demographics associated with a ficticious company. Highlighted metrics include income, education level, marital status, customer satisfaction, products, and purchases.
 
 This analysis takes place within Power BI building a dashboard and performing some data cleaning. This can be viewed in the following links:
